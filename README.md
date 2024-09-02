@@ -31,6 +31,47 @@ Para ouvir o relatório gerado pela IA, você pode baixar o arquivo MP3 diretame
 
 🎙️ **Descrição**: Este áudio foi gerado utilizando técnicas de TTS (Text-to-Speech) que converteram o relatório detalhado em um formato auditivo, facilitando a análise e consumo das informações de forma prática.
 
+# 🚀 Executando a Aplicação
+
+Este projeto foi desenvolvido para automatizar a análise de dados e a geração de relatórios utilizando técnicas avançadas de IA. A seguir, você aprenderá como executar a aplicação e utilizar o dataset fornecido.
+
+---
+
+## 📝 Código-Fonte Principal
+
+O arquivo principal da aplicação é o `main-app.py`. Ele contém a lógica para processamento de dados, geração de insights com LLM (Large Language Models) e envio de relatórios automatizados.
+
+🔗 **Referência ao Código-Fonte**:
+- [main-app.py](https://github.com/chaos4455/Ai-Data_Agent_Analysis/blob/main/main-app.py)
+
+---
+
+## 📊 Dataset Utilizado
+
+A análise é realizada utilizando um dataset específico que contém detalhes dos chamados de suporte técnico. Esse dataset é fundamental para a geração dos insights.
+
+🔗 **Referência ao Dataset**:
+- [chamados_detalhados-seguranca-avancada.xlsx](https://github.com/chaos4455/Ai-Data_Agent_Analysis/raw/main/planilha-agente/chamados_detalhados-seguranca-avancada.xlsx)
+
+---
+
+## ▶️ Como Executar a Aplicação
+
+Para executar a aplicação e processar o dataset, siga os passos abaixo:
+
+1. **Certifique-se de ter o Python instalado**: Para verificar, execute `python --version` ou `python3 --version` no terminal.
+
+2. **Instale as dependências**: Caso ainda não tenha feito, instale as bibliotecas necessárias utilizando pip:
+   ```bash
+   pip install -r requirements.txt
+
+execute como:
+
+python3 -m streamlit run main-app.py
+
+
+streamlit run main-app.py
+
 
 ---
 
