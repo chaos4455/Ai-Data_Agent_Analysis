@@ -28,6 +28,8 @@ Este projeto envolve uma combinação poderosa de **manipulação de dados**, **
 
 ---
 
+
+
 ## 🤖 2. Análise com Inteligência Artificial
 
 ![Google Generative AI](https://img.shields.io/badge/Google_Generative_AI-%230075D5.svg?logo=google)
