@@ -16,6 +16,22 @@ O **Ai-Data_Agent_Analysis** é um projeto focado na automação e análise de d
 
 Este projeto envolve uma combinação poderosa de **manipulação de dados**, **automação**, e **inteligência artificial** para transformar dados brutos em relatórios e insights valiosos. Vamos explorar cada etapa deste processo, mostrando como as tecnologias se entrelaçam para alcançar resultados excepcionais.
 
+# 🎧 Download do Relatório em Áudio
+
+Para ouvir o relatório gerado pela IA, você pode baixar o arquivo MP3 diretamente pelo link abaixo:
+
+[![Baixar MP3](https://img.shields.io/badge/Download_MP3-Click_here-%230075D5?logo=github&style=for-the-badge)](https://github.com/chaos4455/Ai-Data_Agent_Analysis/raw/main/relatorio_20240811_235018.mp3)
+
+---
+
+📥 **Passo a Passo**:
+1. Clique no botão acima para iniciar o download.
+2. O arquivo será baixado no formato `.mp3`.
+3. Utilize qualquer player de áudio para ouvir o relatório.
+
+🎙️ **Descrição**: Este áudio foi gerado utilizando técnicas de TTS (Text-to-Speech) que converteram o relatório detalhado em um formato auditivo, facilitando a análise e consumo das informações de forma prática.
+
+
 ---
 
 ## 🗃️ 1. Manipulação de Dados com Pandas
