@@ -10,9 +10,9 @@
 
 O **Ai-Data_Agent_Analysis** é um projeto focado na automação e análise de dados de suporte técnico, utilizando técnicas avançadas de inteligência artificial para gerar relatórios detalhados, insights profundos, e recomendações estratégicas. Este projeto exemplifica a aplicação de diversas tecnologias e boas práticas no desenvolvimento de soluções analíticas automatizadas.
 
-# 🧠 Ai-Data_Agent_Analysis: Desvendando o Processo 🔍
+# 🧠 Ai-Data_Agent_Analysis: Desvendando o Projeto 🔍
 
-## 🌟 Visão Geral do Processo
+## 🌟 Visão Geral do Projeto
 
 Este projeto envolve uma combinação poderosa de **manipulação de dados**, **automação**, e **inteligência artificial** para transformar dados brutos em relatórios e insights valiosos. Vamos explorar cada etapa deste processo, mostrando como as tecnologias se entrelaçam para alcançar resultados excepcionais.
 
@@ -139,11 +139,3 @@ graph LR;
     D -->|Markdown/HTML| E[Saída];
     E -->|SMTP/gTTS| F[Entrega];
 ```
-
-🎨 Principais Conhecimentos Demonstrados
-Manipulação de Dados: Habilidade em trabalhar com grandes volumes de dados, extraindo insights valiosos através de técnicas avançadas de análise.
-Automação: Criação de processos automatizados que integram diversas tecnologias para alcançar um fluxo de trabalho eficiente e contínuo.
-Inteligência Artificial: Implementação de modelos de IA para geração de relatórios inteligentes, oferecendo suporte estratégico com base em dados.
-Engenharia de Software: Aplicação de boas práticas de codificação, como modularização, encapsulamento e documentação extensiva.
-Comunicação: Geração de relatórios estilizados e acessíveis, tanto em formato visual quanto auditivo, utilizando HTML, Markdown e gTTS.
-
